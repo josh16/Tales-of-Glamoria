@@ -9,6 +9,8 @@ public class BaseClass : MonoBehaviour {
 
     //*****Stats variables*****
     
+   //Player Name
+        
     //Player Health
     public float m_health;
     
