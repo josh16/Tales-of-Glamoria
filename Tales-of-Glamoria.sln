@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tales-of-Glamoria", "Tales-of-Glamoria.csproj", "{F2CF5829-0ED0-06AF-DA1B-043882ECA8B4}"
 EndProject
 Global
